@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="522fb1bc-5531-4149-b4ef-3bf6c2f0fe68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/git-modile-1/src/main/java/com/test/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-modile-1/src/main/java/com/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/git-modile-1/src/main/java/com/test/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633226967495</updated>
-      <workItem from="1633226969649" duration="1917000" />
+      <workItem from="1633226969649" duration="2557000" />
     </task>
     <task id="LOCAL-00001" summary="the first commit to github">
       <created>1633228046732</created>
@@ -78,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633228296726</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="the third commit to github">
+      <created>1633228989092</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633228989092</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +91,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the first commit to github" />
     <MESSAGE value="the second commit to github" />
-    <option name="LAST_COMMIT_MESSAGE" value="the second commit to github" />
+    <MESSAGE value="the third commit to github" />
+    <option name="LAST_COMMIT_MESSAGE" value="the third commit to github" />
   </component>
 </project>
